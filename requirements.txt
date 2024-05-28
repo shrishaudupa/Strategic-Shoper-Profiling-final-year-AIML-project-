@@ -1,0 +1,14 @@
+ipython 
+scikit-learn 
+scipy 
+plotly 
+django 
+opencv-python-headless 
+numpy 
+keras 
+matplotlib 
+seaborn 
+tqdm 
+tensorflow 
+pillow 
+pandas 
