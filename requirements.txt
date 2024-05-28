@@ -12,3 +12,4 @@ tqdm
 tensorflow 
 pillow 
 pandas 
+gunicorn
