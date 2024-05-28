@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winter</title>
+    <link rel="stylesheet" href="{% static 'css/season.css' %}">
+</head>
+<body>
+    <header>
+        <h1 class="season-heading">Winter Fashion Trends</h1>
+         <nav>
+        <ul>
+            <li><a href="season">Back</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+    </header>
+    <div class="slider">
+        <div class="item">
+            <img src="{% static 'images/season_winter/jacket.jpg' %}" alt="Tank tops and camisoles">
+            
+            <h1>Jackets</h1>
+            <a href="Jacket" class="button">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/wool.jpg' %}" alt="Tank tops and camisoles">
+            
+            <h1>Wool coats</h1>
+            <a href="WoolCoat">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/cashmere.jpg' %}" alt="Tank tops and camisoles">
+            
+            <h1>Cashmere sweaters</h1>
+            <a href="CashmereSweater">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/snow.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Snow boots</h1>
+            <a href="SnowBoots">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/turtle.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Turtleneck sweaters </h1>
+            <a href="TurtleneckSweater">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/jeans.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Dark-colored jeans</h1>
+            <a href="DarkColoredJeans">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/skirts.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Wool skirts</h1>
+            <a href="WoolSkirts">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/vevet.png' %}" alt="Tank tops and camisoles">
+            <h1>Vevet dresses</h1>
+            <a href="VelvetDresses">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/boots.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Over-the-knee boots</h1>
+            <a href="OvertheKneeBoots">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/statement.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Statement coats</h1>
+            <a href="StatementBoots">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_winter/gloves.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Gloves </h1>
+            <a href="Gloves">View</a>
+        </div>
+        <button id="next">></button>
+        <button id="prev"><</button>
+    </div>
+
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+</html>

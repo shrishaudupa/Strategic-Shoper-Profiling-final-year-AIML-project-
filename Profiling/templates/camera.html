@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age-Gender Detector</title>
+</head>
+<body>
+    <h1>Age-Gender Detector</h1>
+    <div>
+        <video id="videoElement" autoplay></video>
+    </div>
+    <button id="offButton">Turn Off</button>
+    <script>
+        const video = document.getElementById("videoElement");
+
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(function(stream) {
+                video.srcObject = stream;
+            })
+            .catch(function(err) {
+                console.log("An error occurred: " + err);
+            });
+
+        // Function to stop video stream
+        function stopStream() {
+            const stream = video.srcObject;
+            const tracks = stream.getTracks();
+
+            tracks.forEach(function(track) {
+                track.stop();
+            });
+
+            video.srcObject = null;
+        }
+
+        // Handle button click event
+        const offButton = document.getElementById("offButton");
+        offButton.addEventListener("click", function() {
+            stopStream();
+        });
+    </script>
+</body>
+</html>

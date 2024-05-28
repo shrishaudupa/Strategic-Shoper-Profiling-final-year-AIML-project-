@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/season.css' %}">
+</head>
+<body>
+    <header>
+        <h1 class="season-heading">Summer Fashion Trends</h1>
+         <nav>
+        <ul>
+            <li><a href="season">Back</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+    </header>
+    <div class="slider">
+        <div class="item">
+            <h1>Tank Top</h1>
+            <img src="{% static 'images/season/summer.jpg' %}" alt="Tank tops and camisoles">
+            <a href="tanktop">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/skirt.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Skirts</h1>
+            <a href="skirts">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/shorts.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Shorts</h1>
+            <a href="shorts">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/hats.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Straw hats</h1>
+            <a href="strawhats">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/sunglass.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Sunglasses </h1>
+            <a href="sunglasses">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/fabric.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Breathable Fabrics</h1>
+            <a href="Breathablefabric">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/flip-flops.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Flip-flops</h1>
+            <a href="flipflops">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/sandals.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Sandals</h1>
+            <a href="sandals">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/cover-ups.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Cover-ups</h1>
+            <a href="coverups">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/bright.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Bright-colored clothing</h1>
+            <a href="brightcoloredclothing">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/canvas.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Canvas sneakers</h1>
+            <a href="canvas">Click</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season/belts.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Belts </h1>
+            <a href="belsts">Click</a>
+        </div>
+        <button id="next">></button>
+        <button id="prev"><</button>
+    </div>
+
+    <script src="{% static 'js/app.js' %}"></script>
+    
+</body>
+</html>

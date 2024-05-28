@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:url(https://i.ibb.co/HrfVRcx/menu.png);
+    }
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    }
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+tr:hover {
+    background-color: #f9f9f9;
+}
+
+d
+
+nav {
+    position: fixed;
+    top: 0; /* Position the navigation bar at the top */
+    left: 0; /* Position the navigation bar at the left */
+    background-color: rgba(255, 255, 255, 0.8); /* Light background color */
+    width: 150px; /* Make the navigation bar full width */
+    z-index: 1000; /* Ensure the navigation bar stays on top of other content */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: block; /* Display the list items block */
+}
+
+nav li a {
+    display: block;
+    color: black; /* Black text color */
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Light background color on hover */
+}

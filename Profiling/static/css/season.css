@@ -1,0 +1,138 @@
+body{
+    background-image: 
+        linear-gradient(
+            to top right, #8B5CF6, #EC4899
+        );
+    min-height: 125vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+.container {
+    padding-top: 50px; /* Add padding to the top of the container */
+}
+
+
+
+header {
+    position: fixed; /* Fix the header at the top */
+    top: 0; /* Position at the top */
+    width: 100%; /* Take up the full width */
+    background-color: rgba(0, 0, 0, 0.1); /* Semi-transparent black background */
+    text-align: center; /* Center align the text */
+    padding: 20px 0; /* Add padding top and bottom */
+    z-index: 1000; /* Ensure it's above other content */
+    font: status-bar;
+}
+
+
+
+/* Adjust slider top margin to accommodate the header */
+.slider {
+    margin-top: 0px; /* Adjust as needed to provide space below the header */
+}
+
+.slider{
+    position: relative;
+    width: 100%;
+    height: 370px;
+    overflow: hidden;
+}
+.item{
+    position: absolute;
+    width: 200px;
+    height: 220px;
+    text-align: justify;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    transition: 0.5s;
+    left: calc(50% - 110px);
+    top: 0;
+}
+
+.item img {
+    width: 100%; /* Ensure image fills its container */
+    height: 50%; /* Ensure image fills its container */
+    object-fit: contain; /* Maintain aspect ratio while covering the container */
+}
+
+#next, #prev{
+    position: absolute;
+    top: 40%;
+    color: black;
+    background-color: transparent;
+    border: none;
+    font-size: xxx-large;
+    font-family: monospace;
+    font-weight: bold;
+    left: 400px;
+}
+#next{
+    left: unset;
+    right: 400px;
+}
+
+
+p {
+    font-size: 50px;
+}
+
+/* Updated season heading styles */
+.season-heading {
+    color: #fff;
+    font-size: 40px; /* Reduce font size to fit better */
+    margin: 0; /* Remove default margin */
+}
+nav {
+    position: fixed; /* Fix the navbar position */
+    top: 0; /* Position at the top */
+    left: 0; /* Align to the left */
+    background-color: #e76d89; /* Adjust the alpha value as needed */
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    font-size: medium;
+    text-align: center;
+    padding: 10px 25px;
+    text-decoration: none;
+    background-color: transparent; /* Set background color to transparent */
+}
+
+nav li a:hover {
+    background-color: rgba(221, 221, 221, 0.3); /* Adjust hover background color and opacity */
+    color: black;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Text color */
+  text-decoration: none; /* Remove underline */
+  border-radius: 5px; /* Rounded corners */
+  border: 1px solid #007bff; /* Border color */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+.button:hover {
+  background-color: #0056b3; /* Change background color on hover */
+  border-color: #0056b3; /* Change border color on hover */
+}

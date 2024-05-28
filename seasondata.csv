@@ -1,0 +1,451 @@
+ID,ProductName,Price,Category
+12500,Beach Breeze Straw Hat,1599.00,Strawhats
+12501,Sun Seeker Wide Brim Hat,1799.00,Strawhats
+12502,Tropical Escape Fedora,2099.00,Strawhats
+12503,Coastal Chic Straw Boater Hat,1699.00,Strawhats
+12504,Summer Dream Panama Hat,1899.00,Strawhats
+12505,Island Explorer Safari Hat,1999.00,Strawhats
+12506,Boho Bliss Floppy Hat,1649.00,Strawhats
+12507,Seaside Classic Straw Hat,1399.00,Strawhats
+12508,Sunshine Retreat Bucket Hat,1749.00,Strawhats
+12509,Resort Ready Visor Hat,1299.00,Strawhats
+12510,Ray-Ban Aviator Sunglasses,6999.00,Sunglasses
+12511,Oakley Holbrook Sunglasses,5499.00,Sunglasses
+12512,Maui Jim Peahi Polarized Sunglasses,10999.00,Sunglasses
+12513,Persol PO0649 Sunglasses,8299.00,Sunglasses
+12514,Gucci GG0208S Sunglasses,12999.00,Sunglasses
+12515,Prada Linea Rossa PS 02US Sunglasses,9999.00,Sunglasses
+12516,Versace VE2199 Sunglasses,11499.00,Sunglasses
+12517,Tom Ford FT0248 Henry Sunglasses,7999.00,Sunglasses
+12518,Burberry BE4216 Sunglasses,6799.00,Sunglasses
+12519,Michael Kors Chelsea Sunglasses,8699.00,Sunglasses
+12520,Cotton,499.00,Breathablefabric
+12521,Linen,599.00,Breathablefabric
+12522,Bamboo,699.00,Breathablefabric
+12523,Silk,799.00,Breathablefabric
+12524,Tencel (Lyocell),649.00,Breathablefabric
+12525,Modal,599.00,Breathablefabric
+12526,Hemp,549.00,Breathablefabric
+12527,Merino Wool,899.00,Breathablefabric
+12528,Viscose/Rayon,549.00,Breathablefabric
+12529,Polyester,449.00,Breathablefabric
+12530,Paragon Solea Flip Flops,499.00,flipflops
+12531,Bata Power Flip Flops,599.00,flipflops
+12532,Relaxo Bahamas Flip Flops,449.00,flipflops
+12533,Lakhani Touch Flip Flops,399.00,flipflops
+12534,Liberty Coolers Flip Flops,549.00,flipflops
+12535,VKC Pride Flip Flops,479.00,flipflops
+12536,Sparx Basic Flip Flops,399.00,flipflops
+12537,Action Flip Flops,349.00,flipflops
+12538,Lotto Drift Flip Flops,599.00,flipflops
+12539,Fila Slide Flip Flops,799.00,flipflops
+12540,Paragon Solea Casual Sandals,899.00,sandals
+12541,Bata Power Sports Sandals,799.00,sandals
+12542,Relaxo Bahamas Beach Sandals,699.00,sandals
+12543,Lakhani Touch Formal Sandals,999.00,sandals
+12544,Liberty Coolers Everyday Sandals,849.00,sandals
+12545,VKC Pride Comfort Sandals,749.00,sandals
+12546,Sparx Basic Outdoor Sandals,649.00,sandals
+12547,Action Casual Sandals,599.00,sandals
+12548,Lotto Drift Fashion Sandals,899.00,sandals
+12549,Fila Slide Athletic Sandals,1199.00,sandals
+12550,FabAlley Sheer Beach Cover-up,1299.00,coverups
+12551,Zivame Floral Print Kaftan,1499.00,coverups
+12552,Clovia Lace Beach Kimono,999.00,coverups
+12553,PrettySecrets Tassel Cover-up,1199.00,coverups
+12554,The Beach Company Sarong Wrap,899.00,coverups
+12555,Marks & Spencer Mesh Beach Dress,1799.00,coverups
+12556,Forever 21 Crochet Cover-up,1399.00,coverups
+12557,H&M Fringed Beach Poncho,1699.00,coverups
+12558,Decathlon Quick-Dry Beach Cover-up,799.00,coverups
+12559,Mango Tie-Dye Kimono,2299.00,coverups
+12560,Neon Yellow Crop Top,599.00,brightcoloredclothing
+12561,Hot Pink Maxi Dress,1199.00,brightcoloredclothing
+12562,Electric Blue Skinny Jeans,899.00,brightcoloredclothing
+12563,Sunshine Yellow Pleated Skirt,799.00,brightcoloredclothing
+12564,Vibrant Orange T-shirt,449.00,brightcoloredclothing
+12565,Fuchsia Pink High-Waisted Shorts,699.00,brightcoloredclothing
+12566,Turquoise Blue Tank Top,349.00,brightcoloredclothing
+12567,Coral Red Midi Skater Dress,1299.00,brightcoloredclothing
+12568,Lime Green Jogger Pants,799.00,brightcoloredclothing
+12569,Purple Haze Shift Dress,999.00,brightcoloredclothing
+12570,Converse Chuck Taylor All Star,2499.00,canvasshoes
+12571,Vans Authentic Canvas Sneakers,1999.00,canvasshoes
+12572,Adidas Originals Superstar,3499.00,canvasshoes
+12573,Puma Smash Vulc Canvas Shoes,1799.00,canvasshoes
+12574,Nike Court Royale Canvas,2299.00,canvasshoes
+12575,Reebok Classic Canvas Sneakers,2199.00,canvasshoes
+12576,Fila Original Fitness Canvas,1899.00,canvasshoes
+12577,Skechers Street Cleats Canvas,2599.00,canvasshoes
+12578,New Balance 220 Canvas Shoes,2999.00,canvasshoes
+12579,DC Trase TX Canvas Skate Shoes,1699.00,canvasshoes
+12580,Levi's Reversible Leather Belt,1499.00,belts
+12581,Allen Solly Brown Formal Belt,999.00,belts
+12582,Louis Philippe Black Leather Belt,1799.00,belts
+12583,Van Heusen Tan Casual Belt,899.00,belts
+12584,Woodland Genuine Leather Belt,1299.00,belts
+12585,Tommy Hilfiger Canvas Belt,1599.00,belts
+12586,Puma Black Webbing Belt,699.00,belts
+12587,Arrow Men's Formal Leather Belt,1199.00,belts
+12588,Wildcraft Olive Green Belt,799.00,belts
+12589,Fastrack Black Nylon Belt,599.00,belts
+12590,Nike Dri-FIT Training Shorts,1499.00,shorts
+12591,Adidas 3-Stripes French Terry Shorts,1999.00,shorts
+12592,Puma Essential Woven Shorts,1299.00,shorts
+12593,Reebok Workout Ready Shorts,1799.00,shorts
+12594,Under Armour Tech Mesh Shorts,1599.00,shorts
+12595,Fila Core Training Shorts,1199.00,shorts
+12596,Adidas Marathon 20 Shorts,2299.00,shorts
+12597,Nike Challenger Running Shorts,1899.00,shorts
+12598,Puma Active Woven Shorts,1499.00,shorts
+12599,Reebok Epic Lightweight Shorts,1699.00,shorts
+12600,Forever 21 Pleated Midi Skirt,1299.00,skirts
+12601,H&M A-line Denim Skirt,999.00,skirts
+12602,Zara Floral Print Mini Skirt,1499.00,skirts
+12603,Mango Pleated Maxi Skirt,1799.00,skirts
+12604,FabAlley Wrap-around Skirt,1199.00,skirts
+12605,Marks & Spencer Button-down Skirt,1599.00,skirts
+12606,Vero Moda Flared Skater Skirt,899.00,skirts
+12607,Dorothy Perkins Pencil Skirt,1399.00,skirts
+12608,Allen Solly Checkered Skirt,1299.00,skirts
+12609,Biba Ethnic Print Long Skirt,2299.00,skirts
+12610,Nike Dri-FIT Training Tank Top,999.00,tanktops
+12611,Adidas Essentials Linear Tank Top,1299.00,tanktops
+12612,Puma Essential Tank Top,899.00,tanktops
+12613,Under Armour Tech Tank Top,1199.00,tanktops
+12614,Reebok Workout Ready Tank Top,1499.00,tanktops
+12615,Fila Core Racerback Tank Top,799.00,tanktops
+12616,Nike Pro HyperCool Tank Top,1599.00,tanktops
+12617,Adidas Badge of Sport Tank Top,1099.00,tanktops
+12618,Puma Active Training Tank Top,1199.00,tanktops
+12619,Reebok Epic Lightweight Tank Top,899.00,tanktops
+12620,FabIndia Cotton Scarf,699.00,scarves
+12621,W for Woman Printed Scarf,899.00,scarves
+12622,Biba Ethnic Print Scarf,1199.00,scarves
+12623,Pashmina Wool Blend Scarf,1499.00,scarves
+12624,FabAlley Floral Print Scarf,799.00,scarves
+12625,Marks & Spencer Lightweight Scarf,1299.00,scarves
+12626,H&M Patterned Viscose Scarf,599.00,scarves
+12627,Zara Striped Scarf,1099.00,scarves
+12628,Forever 21 Fringed Scarf,699.00,scarves
+12629,Mango Silk Square Scarf,1399.00,scarves
+12630,Pastel Pink Ruffle Sleeve Blouse,1299.00,pastel
+12631,Light Blue Cropped Jeans,1499.00,pastel
+12632,Lavender Button-down Midi Dress,1799.00,pastel
+12633,Mint Green Knit Sweater,1199.00,pastel
+12634,Peach Pleated Midi Skirt,1599.00,pastel
+12635,Baby Yellow Off-shoulder Top,999.00,pastel
+12636,Pale Pink Wide Leg Trousers,1399.00,pastel
+12637,Soft Coral V-neck T-shirt,899.00,pastel
+12638,Sky Blue Linen Shorts,1099.00,pastel
+12639,Lilac Floral Print Wrap Dress,1699.00,pastel
+12640,Pastel Pink Bomber Jacket,2499.00,lightjacket
+12641,Light Blue Denim Jacket,1999.00,lightjacket
+12642,Lavender Moto Jacket,2299.00,lightjacket
+12643,Mint Green Utility Jacket,1899.00,lightjacket
+12644,Peach Lightweight Windbreaker,1699.00,lightjacket
+12645,Baby Yellow Raincoat,1499.00,lightjacket
+12646,Pale Pink Blazer,2199.00,lightjacket
+12647,Soft Coral Track Jacket,1799.00,lightjacket
+12648,Sky Blue Hooded Anorak,2099.00,lightjacket
+12649,Lilac Zip-up Hoodie,1599.00,lightjacket
+12650,Zara Floral Print Button-down Shirt,1799.00,floral
+12651,H&M Slim Fit Hawaiian Floral Shirt,1299.00,floral
+12652,Mango Short Sleeve Floral Shirt,1499.00,floral
+12653,Tommy Hilfiger Classic Fit Floral Print Shirt,2299.00,floral
+12654,Ralph Lauren Vintage Floral Shirt,2499.00,floral
+12655,Calvin Klein Slim Fit Floral Print Oxford Shirt,1999.00,floral
+12656,Ted Baker Floral Patterned Shirt,2199.00,floral
+12657,Scotch & Soda Floral Print Linen Shirt,1899.00,floral
+12658,Lacoste Tropical Floral Shirt,2599.00,floral
+12659,Banana Republic Slim Fit Short Sleeve Floral Shirt,1799.00,floral
+12660,Levi's 511 Slim Fit Denim Jeans,2999.00,denim
+12661,Wrangler Regular Fit Denim Jeans,2499.00,denim
+12662,Lee Classic Straight Leg Denim Jeans,2199.00,denim
+12663,Pepe Jeans London Slim Fit Denim Jeans,2799.00,denim
+12664,Diesel Skinny Stretch Denim Jeans,3499.00,denim
+12665,Guess Tapered Fit Denim Jeans,3299.00,denim
+12666,Calvin Klein Straight Leg Denim Jeans,2999.00,denim
+12667,Tommy Hilfiger Slim Fit Denim Jeans,3199.00,denim
+12668,Jack & Jones Skinny Denim Jeans,2599.00,denim
+12669,Flying Machine Mid Rise Skinny Denim Jeans,2299.00,denim
+12670,Zara Floral Print Midi Skirt,1799.00,printedskirts
+12671,H&M Geometric Print Mini Skirt,999.00,printedskirts
+12672,Mango Paisley Print Maxi Skirt,1499.00,printedskirts
+12673,Forever 21 Polka Dot A-line Skirt,1299.00,printedskirts
+12674,FabAlley Striped Wrap-around Skirt,1199.00,printedskirts
+12675,Marks & Spencer Animal Print Pleated Skirt,1599.00,printedskirts
+12676,Dorothy Perkins Abstract Print Skirt,1399.00,printedskirts
+12677,Vero Moda Floral Print Flared Skirt,1099.00,printedskirts
+12678,Biba Ethnic Print Long Skirt,2299.00,printedskirts
+12679,ONLY Checkered Print Mini Skirt,899.00,printedskirts
+12680,Zara Graphic Print T-shirt,999.00,tshirts
+12681,H&M Abstract Print T-shirt,799.00,tshirts
+12682,Mango Floral Print T-shirt,1199.00,tshirts
+12683,Forever 21 Tie-Dye T-shirt,699.00,tshirts
+12684,FabAlley Leopard Print T-shirt,899.00,tshirts
+12685,Marks & Spencer Striped T-shirt,1299.00,tshirts
+12686,Dorothy Perkins Polka Dot T-shirt,799.00,tshirts
+12687,Vero Moda Heart Print T-shirt,1099.00,tshirts
+12688,Biba Ethnic Print T-shirt,1499.00,tshirts
+12689,ONLY Camouflage Print T-shirt,1099.00,tshirts
+12690,Zara Floral Print Knit Sweater,2299.00,knitwear
+12691,H&M Striped Knit Pullover,1499.00,knitwear
+12692,Mango Leopard Print Knit Cardigan,1999.00,knitwear
+12693,Forever 21 Polka Dot Knit Jumper,1199.00,knitwear
+12694,FabAlley Abstract Print Knit Sweater,1799.00,knitwear
+12695,Marks & Spencer Geometric Print Knit Top,1299.00,knitwear
+12696,Dorothy Perkins Checkered Knit Jumper,1599.00,knitwear
+12697,Vero Moda Heart Print Knit Cardigan,2099.00,knitwear
+12698,Biba Ethnic Print Knit Poncho,2499.00,knitwear
+12699,ONLY Camouflage Print Knit Sweater,1699.00,knitwear
+12700,Michael Kors Jet Set Crossbody Bag,8999.00,crossbody
+12701,Coach Signature Camera Crossbody,10999.00,crossbody
+12702,Kate Spade New York Mini Crossbody,7499.00,crossbody
+12703,Fossil Fiona Crossbody,5999.00,crossbody
+12704,Tory Burch Perry Bombe Mini Bag,12499.00,crossbody
+12705,Rebecca Minkoff Small Love Crossbody,9999.00,crossbody
+12706,Marc Jacobs Snapshot Crossbody,11499.00,crossbody
+12707,Gucci GG Marmont Mini Bag,59999.00,crossbody
+12708,Longchamp Le Pliage Crossbody,6499.00,crossbody
+12709,Prada Diagramme Mini Crossbody,74999.00,crossbody
+12710,Adidas Stan Smith Sneakers,6999.00,whitesneakers
+12711,Nike Air Force 1 Sneakers,8999.00,whitesneakers
+12712,Converse Chuck Taylor All Star,5499.00,whitesneakers
+12713,Vans Old Skool Sneakers,4999.00,whitesneakers
+12714,Puma Cali Sneakers,7499.00,whitesneakers
+12715,Reebok Club C 85 Sneakers,6499.00,whitesneakers
+12716,New Balance 574 Sneakers,7999.00,whitesneakers
+12717,Fila Disruptor II Sneakers,6499.00,whitesneakers
+12718,Skechers Street Cleats Sneakers,5999.00,whitesneakers
+12719,Adidas Superstar Sneakers,7999.00,whitesneakers
+12720,Swarovski Crystal Necklace,12999.00,jewel
+12721,Pandora Charm Bracelet,8999.00,jewel
+12722,Michael Kors Statement Earrings,6499.00,jewel
+12723,Tiffany & Co. Diamond Ring,24999.00,jewel
+12724,Kate Spade Pearl Statement Necklace,7499.00,jewel
+12725,Alex and Ani Bangle Set,4999.00,jewel
+12726,Gucci Logo Pendant Necklace,29999.00,jewel
+12727,Givenchy Crystal Drop Earrings,11999.00,jewel
+12728,Tory Burch Statement Cuff Bracelet,10499.00,jewel
+12729,Dior Tribal Earrings,18999.00,jewel
+12730,Zara Knit Turtleneck Sweater,2499.00,sweater
+12731,H&M Cable Knit Crewneck Sweater,1799.00,sweater
+12732,Mango Oversized V-Neck Sweater,2999.00,sweater
+12733,Forever 21 Chunky Knit Sweater,1599.00,sweater
+12734,FabAlley Ribbed Mock Neck Sweater,1899.00,sweater
+12735,Marks & Spencer Cashmere Blend Sweater,3499.00,sweater
+12736,Dorothy Perkins Fair Isle Knit Sweater,2199.00,sweater
+12737,Vero Moda Cropped Cable Knit Sweater,1499.00,sweater
+12738,Biba Embellished Wool Sweater,3999.00,sweater
+12739,ONLY Striped Knit Pullover,2299.00,sweater
+12740,Timberland 6-Inch Premium Boots,12999.00,boots
+12741,Dr. Martens 1460 Classic Boots,10999.00,boots
+12742,UGG Classic Short Boots,14999.00,boots
+12743,Sorel Caribou Waterproof Boots,11999.00,boots
+12744,Clarks Desert Boots,7999.00,boots
+12745,Red Wing Heritage Iron Ranger Boots,17999.00,boots
+12746,Blundstone Original 500 Series Boots,9999.00,boots
+12747,Caterpillar Second Shift Work Boots,8999.00,boots
+12748,Columbia Newton Ridge Plus II Boots,10499.00,boots
+12749,Frye Harness 12R Boots,19999.00,boots
+12750,Zara Wool Blend Coat,7999.00,coats
+12751,H&M Trench Coat,4999.00,coats
+12752,Mango Belted Wrap Coat,9999.00,coats
+12753,Forever 21 Faux Fur Coat,6499.00,coats
+12754,FabAlley Longline Puffer Coat,5999.00,coats
+12755,Marks & Spencer Wool Overcoat,8999.00,coats
+12756,Dorothy Perkins Double-Breasted Coat,6999.00,coats
+12757,Vero Moda Faux Suede Trench Coat,7499.00,coats
+12758,Biba Embroidered Wool Blend Coat,12999.00,coats
+12759,ONLY Belted Long Coat,6299.00,coats
+12760,Zara Biker Leather Jacket,9999.00,leatherjacket
+12761,Mango Leather Biker Jacket,11999.00,leatherjacket
+12762,H&M Moto Leather Jacket,7499.00,leatherjacket
+12763,Forever 21 Faux Leather Jacket,5999.00,leatherjacket
+12764,FabAlley Cropped Leather Jacket,6499.00,leatherjacket
+12765,Marks & Spencer Leather Moto Jacket,8999.00,leatherjacket
+12766,Dorothy Perkins Faux Leather Jacket,6999.00,leatherjacket
+12767,Vero Moda Leather Biker Jacket,7999.00,leatherjacket
+12768,Biba Embellished Leather Jacket,13999.00,leatherjacket
+12769,ONLY Classic Leather Jacket,6299.00,leatherjacket
+12770,Zara Corduroy Straight Leg Pants,2499.00,corduroypants
+12771,H&M High-Waisted Corduroy Pants,1799.00,corduroypants
+12772,Mango Wide-Leg Corduroy Trousers,2999.00,corduroypants
+12773,Forever 21 Slim Fit Corduroy Pants,1599.00,corduroypants
+12774,FabAlley Flared Corduroy Pants,1899.00,corduroypants
+12775,Marks & Spencer Corduroy Culottes,2299.00,corduroypants
+12776,Dorothy Perkins Bootcut Corduroy Pants,1799.00,corduroypants
+12777,Vero Moda Corduroy Skinny Pants,1499.00,corduroypants
+12778,Biba Straight Fit Corduroy Pants,2999.00,corduroypants
+12779,ONLY Wide-Leg Corduroy Pants,2299.00,corduroypants
+12780,Adidas Originals Cuffed Beanie,999.00,beanies
+12781,Nike Sportswear Pom Beanie,1299.00,beanies
+12782,The North Face Salty Dog Beanie,1499.00,beanies
+12783,Carhartt Acrylic Watch Hat,1199.00,beanies
+12784,Vans Milford Beanie,899.00,beanies
+12785,Puma Essential Beanie,799.00,beanies
+12786,New Era Cuff Knit Beanie,1099.00,beanies
+12787,Columbia Whirlibird Watch Cap,1299.00,beanies
+12788,Oakley Factory Cuff Beanie,1599.00,beanies
+12789,Burton All Day Long Beanie,1199.00,beanies
+12790,French Connection Wool Beret,1299.00,berets
+12791,Kangol Anglobasque Beret,1999.00,berets
+12792,Brixton Audrey Beret,1499.00,berets
+12793,Laulhere Traditional French Beret,2499.00,berets
+12794,Helen Kaminski Wool Beret,2199.00,berets
+12795,Gucci GG Wool Beret,12999.00,berets
+12796,Kangol Tropic Monty Beret,1799.00,berets
+12797,Helen Berman Wool Blend Beret,1599.00,berets
+12798,Eric Javits Squishee Beret,2999.00,berets
+12799,Betmar Wool Beret,1399.00,berets
+12800,Zara Knit Button-up Cardigan,2999.00,cardigans
+12801,H&M Longline Open-Front Cardigan,1799.00,cardigans
+12802,Mango Ribbed Knit Cardigan,2499.00,cardigans
+12803,Forever 21 Chunky Knit Cardigan,1599.00,cardigans
+12804,FabAlley Cable Knit Cardigan,1899.00,cardigans
+12805,Marks & Spencer Cashmere Cardigan,3499.00,cardigans
+12806,Dorothy Perkins Open-Knit Cardigan,1799.00,cardigans
+12807,Vero Moda Belted Cardigan,1499.00,cardigans
+12808,Biba Embellished Cardigan,3999.00,cardigans
+12809,ONLY Oversized Cardigan,2299.00,cardigans
+12810,Zara Plaid Flannel Shirt,2499.00,flannelshirts
+12811,H&M Checked Flannel Shirt,1799.00,flannelshirts
+12812,Mango Flannel Button-up Shirt,2999.00,flannelshirts
+12813,Forever 21 Oversized Flannel Shirt,1599.00,flannelshirts
+12814,FabAlley Plaid Flannel Shirt,1899.00,flannelshirts
+12815,Marks & Spencer Brushed Flannel Shirt,2299.00,flannelshirts
+12816,Dorothy Perkins Checkered Flannel Shirt,1799.00,flannelshirts
+12817,Vero Moda Flannel Shirt,1499.00,flannelshirts
+12818,Biba Embellished Flannel Shirt,3999.00,flannelshirts
+12819,ONLY Classic Flannel Shirt,2299.00,flannelshirts
+12820,Nike Pro Women's Training Leggings,2499.00,leggings
+12821,Adidas Believe This 2.0 Leggings,1799.00,leggings
+12822,Lululemon Align High-Rise Leggings,5999.00,leggings
+12823,Gymshark Flex Leggings,3499.00,leggings
+12824,Puma Classics T7 Leggings,1999.00,leggings
+12825,Under Armour HeatGear Leggings,2299.00,leggings
+12826,Reebok Lux High-Rise Leggings,2199.00,leggings
+12827,ASOS Design Basic Leggings,999.00,leggings
+12828,Fabletics High-Waisted PowerHold Leggings,2499.00,leggings
+12829,Sweaty Betty Power Leggings,4499.00,leggings
+12830,Zara Suede Tote Bag,4999.00,suedehandbags
+12831,H&M Suede Hobo Bag,3499.00,suedehandbags
+12832,Mango Suede Crossbody Bag,3999.00,suedehandbags
+12833,Forever 21 Suede Shoulder Bag,2499.00,suedehandbags
+12834,FabAlley Suede Bucket Bag,2999.00,suedehandbags
+12835,Marks & Spencer Suede Tassel Clutch,1999.00,suedehandbags
+12836,Dorothy Perkins Suede Satchel Bag,3299.00,suedehandbags
+12837,Vero Moda Suede Backpack,2799.00,suedehandbags
+12838,Biba Embellished Suede Handbag,5499.00,suedehandbags
+12839,ONLY Suede Crossbody Bag,2299.00,suedehandbags
+12840,Zara Biker Leather Jacket,9999.00,Jacket
+12841,Mango Leather Biker Jacket,11999.00,Jacket
+12842,H&M Moto Leather Jacket,7499.00,Jacket
+12843,Forever 21 Faux Leather Jacket,5999.00,Jacket
+12844,FabAlley Cropped Leather Jacket,6499.00,Jacket
+12845,Marks & Spencer Leather Moto Jacket,8999.00,Jacket
+12846,Dorothy Perkins Faux Leather Jacket,6999.00,Jacket
+12847,Vero Moda Leather Biker Jacket,7999.00,Jacket
+12848,Biba Embellished Leather Jacket,13999.00,Jacket
+12849,ONLY Classic Leather Jacket,6299.00,Jacket
+12850,Zara Wool Blend Coat,7999.00,WoolCoat
+12851,H&M Trench Coat,4999.00,WoolCoat
+12852,Mango Belted Wrap Coat,9999.00,WoolCoat
+12853,Forever 21 Faux Fur Coat,6499.00,WoolCoat
+12854,FabAlley Longline Puffer Coat,5999.00,WoolCoat
+12855,Marks & Spencer Wool Overcoat,8999.00,WoolCoat
+12856,Dorothy Perkins Double-Breasted Coat,6999.00,WoolCoat
+12857,Vero Moda Faux Suede Trench Coat,7499.00,WoolCoat
+12858,Biba Embroidered Wool Blend Coat,12999.00,WoolCoat
+12859,ONLY Belted Long Coat,6299.00,WoolCoat
+12860,Zara Knit Cashmere Sweater,5999.00,CashmereSweater
+12861,H&M Cashmere Turtleneck Sweater,3499.00,CashmereSweater
+12862,Mango Cashmere Blend Crewneck Sweater,6999.00,CashmereSweater
+12863,Forever 21 Cashmere V-Neck Sweater,4999.00,CashmereSweater
+12864,FabAlley Cashmere Blend Cardigan,4499.00,CashmereSweater
+12865,Marks & Spencer Cashmere Roll Neck Sweater,7999.00,CashmereSweater
+12866,Dorothy Perkins Cashmere Hoodie,6499.00,CashmereSweater
+12867,Vero Moda Cashmere Pullover,5799.00,CashmereSweater
+12868,Biba Embellished Cashmere Sweater,9999.00,CashmereSweater
+12869,ONLY Cashmere Blend Turtleneck Sweater,5299.00,CashmereSweater
+12870,Timberland 6-Inch Premium Boots,12999.00,SnowBoots
+12871,Dr. Martens 1460 Classic Boots,10999.00,SnowBoots
+12872,UGG Classic Short Boots,14999.00,SnowBoots
+12873,Sorel Caribou Waterproof Boots,11999.00,SnowBoots
+12874,Clarks Desert Boots,7999.00,SnowBoots
+12875,Red Wing Heritage Iron Ranger Boots,17999.00,SnowBoots
+12876,Blundstone Original 500 Series Boots,9999.00,SnowBoots
+12877,Caterpillar Second Shift Work Boots,8999.00,SnowBoots
+12878,Columbia Newton Ridge Plus II Boots,10499.00,SnowBoots
+12879,Frye Harness 12R Boots,19999.00,SnowBoots
+12880,Zara Knit Turtleneck Sweater,2999.00,TurtleneckSweater
+12881,H&M Cashmere Turtleneck Sweater,5999.00,TurtleneckSweater
+12882,Mango Ribbed Turtleneck Sweater,3499.00,TurtleneckSweater
+12883,Forever 21 Cable Knit Turtleneck Sweater,4999.00,TurtleneckSweater
+12884,FabAlley Turtleneck Sweater,2899.00,TurtleneckSweater
+12885,Marks & Spencer Wool Turtleneck Sweater,3999.00,TurtleneckSweater
+12886,Dorothy Perkins Turtleneck Sweater,3299.00,TurtleneckSweater
+12887,Vero Moda Chunky Turtleneck Sweater,2799.00,TurtleneckSweater
+12888,Biba Embellished Turtleneck Sweater,5999.00,TurtleneckSweater
+12889,ONLY Knit Turtleneck Sweater,3299.00,TurtleneckSweater
+12890,Levi's 711 Skinny Jeans,3499.00,DarkColoredJeans
+12891,Wrangler High-Rise Skinny Jeans,2999.00,DarkColoredJeans
+12892,Lee Mid-Rise Bootcut Jeans,2799.00,DarkColoredJeans
+12893,Flying Machine Slim Fit Jeans,2499.00,DarkColoredJeans
+12894,Pepe Jeans Mid-Rise Straight Jeans,2899.00,DarkColoredJeans
+12895,Spykar Low-Rise Skinny Jeans,2699.00,DarkColoredJeans
+12896,Roadster Mid-Rise Slim Fit Jeans,2199.00,DarkColoredJeans
+12897,Allen Solly Dark Wash Slim Jeans,3199.00,DarkColoredJeans
+12898,ONLY High-Waisted Skinny Jeans,2599.00,DarkColoredJeans
+12899,Mast & Harbour Black Washed Skinny Jeans,2299.00,DarkColoredJeans
+12900,Zara Wool Blend Mini Skirt,2999.00,WoolSkirts
+12901,H&M High-Waisted Wool Skirt,2499.00,WoolSkirts
+12902,Mango A-Line Wool Skirt,3499.00,WoolSkirts
+12903,Forever 21 Plaid Wool Skirt,1999.00,WoolSkirts
+12904,FabAlley Wrap Wool Skirt,2199.00,WoolSkirts
+12905,Marks & Spencer Pleated Wool Skirt,3999.00,WoolSkirts
+12906,Dorothy Perkins Wool Blend Pencil Skirt,2799.00,WoolSkirts
+12907,Vero Moda Wool Blend Midi Skirt,2899.00,WoolSkirts
+12908,Biba Embellished Wool Skirt,4499.00,WoolSkirts
+12909,ONLY Check Wool Skirt,2299.00,WoolSkirts
+12910,Zara Velvet Slip Dress,3999.00,VelvetDresses
+12911,H&M Velvet Wrap Dress,2799.00,VelvetDresses
+12912,Mango Velvet Bodycon Dress,3499.00,VelvetDresses
+12913,Forever 21 Velvet Mini Dress,1999.00,VelvetDresses
+12914,FabAlley Velvet Shift Dress,2199.00,VelvetDresses
+12915,Marks & Spencer Velvet Fit and Flare Dress,3999.00,VelvetDresses
+12916,Dorothy Perkins Velvet Wrap Dress,2999.00,VelvetDresses
+12917,Vero Moda Velvet Slip Dress,2899.00,VelvetDresses
+12918,Biba Embellished Velvet Dress,4999.00,VelvetDresses
+12919,ONLY Velvet Bodycon Dress,2299.00,VelvetDresses
+12920,Steve Madden Over-the-Knee Boots,6999.00,OvertheKneeBoots
+12921,Aldo Over-the-Knee Suede Boots,7999.00,OvertheKneeBoots
+12922,Topshop Over-the-Knee Leather Boots,8999.00,OvertheKneeBoots
+12923,Nine West Over-the-Knee Boots,6499.00,OvertheKneeBoots
+12924,Public Desire Over-the-Knee Lace-up Boots,5999.00,OvertheKneeBoots
+12925,Missguided Over-the-Knee Heeled Boots,4999.00,OvertheKneeBoots
+12926,Dune London Over-the-Knee Stretch Boots,9999.00,OvertheKneeBoots
+12927,Sam Edelman Over-the-Knee Flat Boots,8499.00,OvertheKneeBoots
+12928,Vince Camuto Over-the-Knee Suede Boots,10999.00,OvertheKneeBoots
+12929,Stuart Weitzman Over-the-Knee Leather Boots,15999.00,OvertheKneeBoots
+12930,Jeffrey Campbell Studded Ankle Boots,7499.00,StatementBoots
+12931,Dr. Martens Embellished Combat Boots,8999.00,StatementBoots
+12932,Schutz Embroidered Western Boots,9499.00,StatementBoots
+12933,Steve Madden Snake Print Booties,6999.00,StatementBoots
+12934,Aldo Floral Embroidered Booties,5999.00,StatementBoots
+12935,Topshop Patent Leather Chelsea Boots,7499.00,StatementBoots
+12936,Nine West Fringed Suede Boots,8499.00,StatementBoots
+12937,Public Desire Lace-up Platform Boots,4999.00,StatementBoots
+12938,Missguided Metallic Over-the-Knee Boots,6499.00,StatementBoots
+12939,Dune London Leopard Print Block Heel Boots,9999.00,StatementBoots
+12940,Adidas Winter Gloves,1299.00,Gloves
+12941,Nike Tech Thermal Gloves,1499.00,Gloves
+12942,The North Face Etip Gloves,1799.00,Gloves
+12943,Columbia Waterproof Gloves,1999.00,Gloves
+12944,Oakley Knit Gloves,1599.00,Gloves
+12945,Under Armour Liner Gloves,1299.00,Gloves
+12946,Reebok Cold Weather Gloves,1799.00,Gloves
+12947,Puma Windproof Gloves,1499.00,Gloves
+12948,Fila Touchscreen Gloves,1299.00,Gloves
+12949,Salomon Insulated Gloves,1999.00,Gloves

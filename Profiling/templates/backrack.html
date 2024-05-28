@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Back Level Rack</title>
+</head>
+<body>
+    <h1>Back Level Rack</h1>
+    <form method="post" action="{% url 'add_to_inventory' %}">
+        {% csrf_token %}
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>Product Name</th>
+                    <th>Price (INR)</th>
+                    <th>Category</th>
+                    <th>Select</th> <!-- Add Select Header -->
+                </tr>
+            </thead>
+            <tbody>
+                {% for product in product_details %}
+                <tr>
+                    <td>{{ product.id }}</td>
+                    <td>{{ product.name }}</td>
+                    <td>{{ product.price }}</td>
+                    <td>{{ product.category }}</td>
+                    <td>
+                        <input type="hidden" name="name{{ product.id }}" value="{{ product.name }}">
+                        <input type="hidden" name="price{{ product.id }}" value="{{ product.price }}">
+                        <input type="checkbox" name="selected_products" value="{{ product.id }}">
+                    </td>
+                </tr>                                                        
+                {% endfor %}
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Total Cost Price:</td>
+                    <td>{{ erack_price }}</td>
+                    <td><button type="submit">Add Selected Products</button></td>
+                    
+                </tr>
+            </tfoot>
+        </table>
+        
+    </form>
+</body>
+</html>

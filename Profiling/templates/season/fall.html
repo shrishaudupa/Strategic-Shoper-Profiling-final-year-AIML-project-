@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fall</title>
+    <link rel="stylesheet" href="{% static 'css/season.css' %}">
+</head>
+<body>
+    <header>
+        <h1 class="season-heading">Fall Fashion Trends</h1>
+         <nav>
+        <ul>
+            <li><a href="season">Back</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+    </header>
+    <div class="slider">
+        <div class="item">
+            <img src="{% static 'images/season_fall/sweater.jpg' %}" alt="Tank tops and camisoles">
+            <a href="sweater">View</a>
+            <h1>Sweater</h1>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/boots.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Boots</h1>
+            <a href="boots">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/coats.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Coats</h1>
+            <a href="coats">View</a>
+        </div>
+
+
+        <div class="item">
+            <img src="{% static 'images/season_fall/leather.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Leather Jackets</h1>
+            <a href="leatherjacket">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/cord.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Corduroy Pants</h1>
+            <a href="corduroypants">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/beanies.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Beanies</h1>
+            <a href="beanies">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/berets.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Berets</h1>
+            <a href="berets">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/cardigans.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Cardigans</h1>
+            <a href="cardigans">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/flannel.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Flannel Shirts</h1>
+            <a href="flannelshirts">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/legging.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Leggings</h1>
+            <a href="leggings">View</a>
+        </div>
+            <div class="item">
+            <img src="{% static 'images/season_fall/handbag.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Suede Handbags</h1>
+            <a href="suedehandbags">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/scarves.jpg' %}" alt="Tank tops and camisoles">
+            <h1>Scarves</h1>
+            <a href="scarves">View</a>
+        </div>
+        <div class="item">
+            <img src="{% static 'images/season_fall/denim.png' %}" alt="Tank tops and camisoles">
+            <h1>Denim </h1>
+            <a href="denim">View</a>
+        </div>
+        <button id="next">></button>
+        <button id="prev"><</button>
+    </div>
+
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+</html>

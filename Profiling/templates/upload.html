@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV File</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/upload.css' %}">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/homepage">Menu</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h1>Upload CSV File</h1>
+        <h3>Make sure to add csv file with Age and Gender</h3>
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="file" id="file-upload" accept=".csv" required>
+            <label for="file-upload">Choose File</label>
+            <span id="file-chosen">No file chosen</span>
+            <button type="submit">Upload</button>
+        </form>
+        {% if message %}
+            <p>Successful</p>
+        {% endif %}
+    </div>
+    <script src="{% static 'js/upload.js' %}"></script>
+
+</body>
+</html>

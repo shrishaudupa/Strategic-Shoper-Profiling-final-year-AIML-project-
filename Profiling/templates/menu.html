@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="{% static 'css/menu.css' %}">
+
+</head>
+<body>
+<div class="container">
+
+    <h1 class="heading">Recommendations</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="{% static 'images/img1.jpg' %}" alt="">
+            <h3>TOP RECOMMENDATION</h3>
+            <p>Click here to view the top 20 must-have products predicted based on the pictures captured from the camera</p>
+            <a href="recommendation" class="btn">View</a>
+        </div>
+
+        <div class="box">
+            <img src="{% static 'images/Gemini_Generated_Image.jpg' %}" alt="">
+            <h3>PRODUCT PLACEMENT</h3>
+            <p>Click here to view the recommendation to place the items on the rack</p>
+            <a href="placement" class="btn">View</a>
+        </div>
+
+        <div class="box">
+            <img src="{% static 'images/season.jpg' %}" alt="">
+            <h3>SEASONAL PRODUCT TRENDs</h3>
+            <p>Click here to view the trending products in each seasons</p>
+            <a href="season" class="btn">View</a>
+        </div>
+        
+        <!-- Back button -->
+        <div class="back-button">
+            <a href="{% url 'homepage' %}"><i class="fas fa-arrow-left"></i> Back</a>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!-- entrance_level_racks.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrance Level Racks</title>
+</head>
+<body>
+    <h1>Entrance Level Racks</h1>
+    <ul>
+    <!-- Display product information -->
+    {% for product in products_info %}
+        <li>{{ product.name }} |-> PRICE {{ product.price }}(INR) |-> CATEGORY {{ product.category }}</li>
+    {% endfor %}
+    </ul>
+    <p>Total Cost Price: {{ total_price }}</p>
+</body>
+</html>

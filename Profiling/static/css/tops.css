@@ -1,0 +1,108 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('/static/images/backgrounds.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* or contain, depending on your preference */
+    background-attachment: fixed;
+
+}
+
+h1 {
+    text-align: center;
+    color: floralwhite;
+    font-weight: bold;
+    font-size: 45px;
+    font-family: serif;
+    background-color: ;
+    background-color: rgba(51, 51, 51, 0.8);
+
+}
+
+nav {
+    position: fixed; /* Fix the navbar position */
+    top: 0; /* Position the navbar at the top */
+    left: 0; /* Position the navbar at the left */
+    background-color: rgba(100, 100,100, 0.8);
+    overflow: visible;
+    width: 5%; /* Make the navbar span the full width */
+}
+.update {
+    width: 150px; /* Adjust the width as needed */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    float: left;
+}
+
+nav ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: transparent; /* Set background color to transparent */
+}
+
+nav li a:hover {
+    background-color: rgba(221, 221, 221, 0.3); /* Adjust hover background color and opacity */
+    color: black;
+}
+
+img {
+    margin-top: 65px; /* Adjust this value to move the image down by the desired amount */
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add margin to create space between the image and text */
+}
+
+table {
+    float: center; /* Position table on the left */
+    margin-right: 20px; /* Add some space between table and total price */
+    width: 75%; /* Set table width to 75% of the viewport */
+    background-color: rgba(255, 255, 255, 0.8); /* Set a solid white background with 90% opacity */
+    color: black;
+    font-weight: bold;
+}
+
+
+.rectangle {
+    position: fixed;
+    top: 80px; /* Adjust the top position as needed */
+    right: 20px; /* Adjust the right position as needed */
+    width: 275px;
+    height: 75px;
+    background-color: ivory;
+    border: 3px solid black;
+    text-align: center;
+    line-height: 75px;
+}
+
+.pay {
+    position: fixed;
+    top: 200px; /* Adjust the top position as needed */
+    right: 105px; /* Adjust the right position as needed */
+    width: 100px;
+    height: 50px;
+    background-color: greenyellow;
+    border: 3px solid black;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+p {
+    margin-top: 20px; /* Add some margin to separate from the table */
+}

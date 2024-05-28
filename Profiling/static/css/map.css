@@ -1,0 +1,58 @@
+#details {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 675px; /* Adjust width as needed */
+    padding: 10px;
+    border: 0px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+nav {
+    position: fixed; /* Fix the navbar position */
+    top: 0; /* Align the navbar to the top of the page */
+    left: 0; /* Align the navbar to the left side of the page */
+
+    background-color: rgba(51, 51, 51, 0.5); /* Adjust the alpha value as needed */
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: transparent; /* Set background color to transparent */
+}
+
+nav li a:hover {
+    background-color: rgba(221, 221, 221, 0.3); /* Adjust hover background color and opacity */
+    color: black;
+}
+
+img {
+    margin-top: 65px; /* Adjust this value to move the image down by the desired amount */
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add margin to create space between the image and text */
+}
+
+h1 {
+    margin-top: 0px; /* Reset the margin-top */
+    margin-left: 20px; /* Add margin to the left to create space from the image */
+    margin-bottom: 0px; /* Adjust the margin between h1 tags */
+
+    padding: 0; /* Reset padding */
+    background-color: transparent; /* Reset background color */
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="{% static 'css/menu.css' %}">
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/homepage/menu">Menu</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+    
+<div class="container">
+
+    <h1 class="heading">SEASONAL TRENDS</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="{% static 'images/summar.jpg' %}" alt="">
+            <h3>SUMMER</h3>
+            <a href="summer" class="btn">View</a>
+        </div>
+        <div class="box">
+            <img src="{% static 'images/spring.jpg' %}" alt="">
+            <h3>SPRING</h3>
+            <a href="spring" class="btn">View</a>
+        </div>
+        
+        <div class="box">
+            <img src="{% static 'images/fall.jpg' %}" alt="">
+            <h3>FALL</h3>
+            <a href="fall" class="btn">View</a>
+        </div>
+
+        <div class="box">
+            <img src="{% static 'images/winter.jpg' %}" alt="">
+            <h3>WINTER</h3>
+            <a href="winter" class="btn">View</a>
+        </div>
+
+        
+    </div>
+
+</div>
+
+</body>
+</html>
