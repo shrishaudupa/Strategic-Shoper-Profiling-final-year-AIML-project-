@@ -1,15 +1,23 @@
-IPython
-scikit-learn
+
+# Data Science and Machine Learning Libraries
 scipy
-plotly
-Django
-opencv-python-headless
-numpy
+scikit-learn
 keras
+tensorflow
+numpy
+pandas
+
+# Image Processing and Computer Vision Libraries
+opencv-python-headless
+Pillow
+
+# Data Visualization Libraries
+plotly
 matplotlib
 seaborn
+
+# Web Development Libraries (Django)
+Django
+
+# Additional Libraries
 tqdm
-tensorflow
-Pillow
-pandas
-gunicorn
